@@ -11,6 +11,15 @@
 - [ResAI](https://github.com/rycharlind/resai) - A general purpose exploratory repo with a variety of tools and frameworks to play with such as Python, Jupyter Notebooks, Langchain, OpenAI, Svelte, and more.
 - [SnowChatSQL](https://github.com/rycharlind/snowchatsql) - A Streamlit app that allows users to analyze data in a Snowflake data warehouse using natural language.
 
+## Medium Articles
+- [Understanding Data Modeling: A Healthcare-Focused Guide to Efficient Database Design](https://rycharlind.medium.com/understanding-data-modeling-a-healthcare-focused-guide-to-efficient-database-design-bf96cb88aa66)
+- [Building a REST API with Ruby on Rails and PostgreSQL: A Marketplace Example](https://rycharlind.medium.com/building-a-rest-api-with-ruby-on-rails-and-postgresql-a-marketplace-example-bbc527aac84a)
+- [Understanding Clinical Quality Language (CQL)](https://rycharlind.medium.com/understanding-clinical-quality-language-cql-620783f71a7e)
+- [Using Snowflake Window Functions to Identify Gaps in Prescription Supplies](https://rycharlind.medium.com/using-snowflake-window-functions-to-identify-gaps-in-prescription-supplies-9527d96c0b7c)
+- [Understanding SQL Joins: A Comprehensive Guide](https://rycharlind.medium.com/understanding-sql-joins-a-comprehensive-guide-30fac661d4de)
+- [Apache Spark on Scala basic example](https://rycharlind.medium.com/apache-spark-on-scala-basic-example-7aab11d58c08)
+- [SnowChatSQL — A Streamlit AI assistant for analyzing a Snowflake database](https://rycharlind.medium.com/snowchatsql-a-streamlit-ai-assistant-for-analyzing-a-snowflake-database-6a060be4b013)
+- [Analyze Bitcoin data with Google BigQuery](https://rycharlind.medium.com/analyze-bitcoin-data-with-google-bigquery-b131d0cc5b5c)
 
 
 
