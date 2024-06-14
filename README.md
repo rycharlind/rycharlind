@@ -1,3 +1,6 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rycharlind)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://rycharlind.medium.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@rycharlind)
 
 ## Data Engineering
 - [Spark Scala Examples](https://github.com/rycharlind/spark-scala-examples) - An example project to showcase data engineering operations in the [Apache Spark](https://spark.apache.org/) framework using the [Scala](https://www.scala-lang.org/) programming language.
