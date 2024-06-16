@@ -24,7 +24,9 @@
 - [SnowChatSQL — A Streamlit AI assistant for analyzing a Snowflake database](https://rycharlind.medium.com/snowchatsql-a-streamlit-ai-assistant-for-analyzing-a-snowflake-database-6a060be4b013)
 - [Analyze Bitcoin data with Google BigQuery](https://rycharlind.medium.com/analyze-bitcoin-data-with-google-bigquery-b131d0cc5b5c)
 
-
+## YouTube Videos
+- [Apache Spark on Scala Basic Example](https://www.youtube.com/watch?v=7-gP5UnTGLs)
+- [Population Health Quality Measurement on Snowpark Container Services Demo](https://www.youtube.com/watch?v=PFMltJdgGNc)
 
 <!--
 **rycharlind/rycharlind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
