@@ -5,6 +5,12 @@
 ## Data Engineering
 - [Spark Scala Examples](https://github.com/rycharlind/spark-scala-examples) - An example project to showcase data engineering operations in the [Apache Spark](https://spark.apache.org/) framework using the [Scala](https://www.scala-lang.org/) programming language.
 
+## Data Structures & Algorithms
+- [Linked List](https://github.com/rycharlind/ryleetcode/blob/main/src/linked_list.py)
+- [Reverse String](https://github.com/rycharlind/ryleetcode/blob/main/src/reverse_string.py)
+- [Binary Search](https://github.com/rycharlind/ryleetcode/blob/main/src/binary_search.py)
+- [B Tree](https://github.com/rycharlind/ryleetcode/blob/main/src/btree.py)
+
 ## REST API
 - [Ruby on Rails REST API](https://github.com/rycharlind/rails_rest_api_example) - An example marketplace REST API on Ruby on Rails.
 
